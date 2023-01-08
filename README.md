@@ -41,8 +41,9 @@
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
  
- - When u only use 10th CPU UHD630 on MSI-MAG-B560M-MORTAR with HDMI 
-[500Series With 10th CPU UHD630 in Macos](https://www.bilibili.com/video/BV1UW4y1J7J2/)
+ - When u only use 10th CPU UHD630 on MSI-MAG-B560M-MORTAR with HDMI
+ 
+[500Series With 10th CPU UHD630 in Macos Video](https://www.bilibili.com/video/BV1UW4y1J7J2/)
 
  - 1.Please use config-igpu.plist(rename config.plist)
  - 2.search montior EDID in Windows
