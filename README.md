@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -70,4 +70,11 @@
 - NZXT Tempest 410
 
 ![image](ScreenShot/CASE.png)
+
+
+### Contact Us
+
+- QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)
 
